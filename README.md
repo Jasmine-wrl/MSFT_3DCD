@@ -2,7 +2,7 @@
 
 # Change Detection for Remote Sensing Image
 
-This work is based on MSFT, which is in
+This work is based on MSFT, which is in https://github.com/Jasmine-wrl/MSFT.git
 
 and activate 3D change detection ,which is based on 3DCD in https://github.com/VMarsocci/3DCD.git.
 
