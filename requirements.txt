@@ -1,0 +1,12 @@
+albumentations
+pytorch
+pyyaml
+numpy
+tifffile
+# skimage
+scikit-image
+# sklearn
+scikit-learn
+tqdm
+einops
+fightingcv_attention
